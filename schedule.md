@@ -211,6 +211,7 @@
 ### Criticism
 
 #### April 6
+*Reading*
 
 > Ramsay, *Reading Machines*, “An Algorithmic Criticism,” “The Turning
 > Test”
@@ -225,6 +226,8 @@
 ### Visualization
 
 #### April 13
+
+*Reading*
 
 > \*Tufte, “Data-Ink Maximization and Graphical Design,” *The Visual
 > Display of Quantitative Information*
