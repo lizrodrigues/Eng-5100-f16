@@ -4,7 +4,7 @@
 
 ### Introduction
 
-*January 13*
+#### January 13
 
 > Introduction
 >
@@ -14,7 +14,7 @@
 
 ### Stylistics
 
-*January 20*
+#### January 20
 
 *Homework*
 
@@ -40,7 +40,7 @@
 >
 > Style Basics: *AntConc* word frequencies, concordance
 
-*January 27*
+#### January 27
 
 *Reading*
 
@@ -55,7 +55,7 @@
 
 ### Stylometry
 
-*February 3*
+#### February 3
 
 *Reading*
 
@@ -73,7 +73,7 @@
 
 ### Textuality
 
-*February 10*
+#### February 10
 
 *Assignment \#1 Due* (5 pages)
 
@@ -88,7 +88,7 @@
 
 ### Networks
 
-*February 17*
+#### February 17
 
 *Reading*
 
@@ -104,7 +104,7 @@
 
 > *Voyant *
 
-*February 24*
+#### February 24
 
 *Reading*
 
@@ -123,7 +123,7 @@
 
 ### Topic Models
 
-*March 9*
+#### March 9
 
 *Reading*
 
@@ -146,7 +146,7 @@
 
 > Install *Topic Modelling Toolkit*
 
-*March 16*
+#### March 16
 
 *Assignment \#2 Due* (5 pages)
 
@@ -171,7 +171,7 @@
 
 ### Sentiment Analysis
 
-*March 23*
+#### March 23
 
 *Reading*
 
@@ -195,7 +195,7 @@
 
 ### Plot 
 
-*March 30*
+#### March 30
 
 *Reading*
 
@@ -210,7 +210,7 @@
 
 ### Criticism
 
-*April 6*
+#### April 6
 
 > Ramsay, *Reading Machines*, “An Algorithmic Criticism,” “The Turning
 > Test”
@@ -224,7 +224,7 @@
 
 ### Visualization
 
-*April 13*
+#### April 13
 
 > \*Tufte, “Data-Ink Maximization and Graphical Design,” *The Visual
 > Display of Quantitative Information*
@@ -238,8 +238,8 @@
 
 ### Final Projects
 
-*April 20*
+#### April 20
 
-Final Projects
-
-Discussion
+> Final Projects
+> 
+> Discussion
