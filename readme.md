@@ -106,7 +106,7 @@ The culminating event for the course is a 15-page paper. You can either
 produce your own analysis; or (2) write a research paper critiquing
 existing work in the field of digital literary studies.
 
-#### Presentation 20%
+#### *Presentation* 20%
 
 Each student will present an analysis of one essay on the syllabus to
 the class and lead a brief discussion about it.
