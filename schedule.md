@@ -1,8 +1,8 @@
-**Schedule: Introduction to Digital Research**
+## Schedule: Introduction to Digital Research 
 
-\* Items marked with an asterisk are provided on OwlBox
+\* Items marked with an asterisk are available on TU OwlBox
 
-**Introduction**
+### Introduction
 
 *January 13*
 
@@ -12,7 +12,7 @@
 >
 > Introducing GitHub
 
-**Stylistics**
+### Stylistics
 
 *January 20*
 
@@ -53,7 +53,7 @@
 
 > Style Basics: *AntConc* collocates, keywords, ngram
 
-**Stylometry**
+### Stylometry
 
 *February 3*
 
@@ -71,7 +71,7 @@
 > Mysteries”*](http://ftp.cs.toronto.edu/pub/gh/Lancashire+Hirst-2009-poster.pdf)
 > (Poster)
 
-**Textuality**
+### Textuality
 
 *February 10*
 
@@ -86,7 +86,7 @@
 > McGann, *Radiant Textuality*, Introduction, “The Alice Fallacy,”
 > “Rethinking Textuality”
 
-**Networks**
+### Networks
 
 *February 17*
 
@@ -119,9 +119,9 @@
 
 > *Voyant*
 
-\[Spring Break\]
+#### \[Spring Break\]
 
-**Topic Models**
+### Topic Models
 
 *March 9*
 
@@ -169,7 +169,7 @@
 
 > Interpreting student topic models
 
-**Sentiment Analysis**
+### Sentiment Analysis
 
 *March 23*
 
@@ -193,7 +193,7 @@
 >
 > [*hedonometer.org*](http://hedonometer.org/index.html)
 
-**Plot**
+### Plot 
 
 *March 30*
 
@@ -208,7 +208,7 @@
 > \*Piper, “Novel Devotions: Conversional Reading, Computational
 > Modeling, and the Modern Novel”
 
-**Criticism**
+### Criticism
 
 *April 6*
 
@@ -222,7 +222,7 @@
 > [*Hauser, et al, “A Quantitative Literary History … Semantic Cohort
 > Model”*](http://litlab.stanford.edu/LiteraryLabPamphlet4.pdf)
 
-**Visualization**
+### Visualization
 
 *April 13*
 
@@ -236,7 +236,7 @@
 > \*Klein, “The Image of Absence: Archival Silence, Data Visualization,
 > and James Hemings”
 
-**Final Projects **
+### Final Projects
 
 *April 20*
 
